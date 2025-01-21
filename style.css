@@ -363,7 +363,8 @@ nav {
         top: 80px;
         left: 0;
         right: 0;
-        background-color: var(--dark);
+        background-color: black;
+        opacity: 90%;
         padding: 20px;
         flex-direction: column;
         text-align: center;
