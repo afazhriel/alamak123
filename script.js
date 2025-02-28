@@ -39,7 +39,7 @@
 
 
         const texts = [
-            "AI",
+            "Programmer",
             "Content Creator",
             "Business Innovator"
         ]
